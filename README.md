@@ -65,8 +65,6 @@ Copy code
 This project shows how **cybersecurity analysts** use threat intelligence to detect **malicious IPs** from log files.
 
 ---
-
-## 🪪 Certificate Submission
 This repository contains:
 - `threat_checker.py` → Main Python script  
 - `access.log` → Sample log file  
